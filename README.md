@@ -4,13 +4,10 @@
 <h3 align="center">A passionate student from New Era University</h3>
 
 - 📝 Bai Sakina Abad
-
+- 💜 yna-lol (another github)
 - 🌱 I’m currently learning **Java, Python, SQL, CSS3**
-
 - 💬 Ask me about **anime and arts**
-
 - 📫 How to reach me **sakinaabad07@gmail.com**
-
 - ⚡ Fun fact **I have fast metabolism**
 
 <h3 align="left">Connect with me:</h3>
