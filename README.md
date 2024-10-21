@@ -3,24 +3,25 @@
 <h1 align="center">Hi 👋, I'm Sakina</h1>
 <h3 align="center">A passionate student from New Era University</h3>
 
-- 📝 Bai Sakina Abad
-- 💜 yna-lol (another github)
-- 🌱 I’m currently learning **Java, Python, SQL, CSS3**
 - 💬 Ask me about **anime and arts**
 - 📫 How to reach me **sakinaabad07@gmail.com**
 - ⚡ Fun fact **I have fast metabolism**
 
-<h3  align="left"> Education: </h3>
- <h4>BS Computer Science</h4>
- 
-  - New Era University (2023-Present)
- <h4>STEM Graduate </h4>
- 
-  - Our Lady of Fatima University (2021-2023)
+## Education
 
-<h3  align="left"> Certifications: </h3>
+- **STEM Graduate**
+  - Our Lady of Fatima University
+  - (2021-2023)
 
-- (ongoing)
+- **BS Computer Science**
+  - New Era University
+  - 2021-Present
+
+## Certifications
+
+- Ongoing
+
+## Skill Sets
     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
