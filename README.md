@@ -18,8 +18,8 @@
   - 2021-Present
 
 ## Certifications
-
-- Ongoing
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/e3f294a5cce44b8f92833ef286fd7b0a)
+- [Responsove Web Design - FCC](https://www.freecodecamp.org/certification/fcca1781b29-0d1f-4609-8a59-71a77868c3c8/responsive-web-design)
 
 ## Skill Sets
     
