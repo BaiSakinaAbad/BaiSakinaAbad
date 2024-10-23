@@ -1,7 +1,7 @@
 <img align="right" width="100%" alt="purple-background" src="https://media1.tenor.com/m/rkPNIZSk1toAAAAC/purple-aesthetic.gif"> </img>
 
 <h1 align="center">Hi 👋, I'm Sakina</h1>
-<h3 align="center">A passionate student from New Era University</h3>
+<h3 align="center">A passionate computer science student from New Era University</h3>
 
 - 💬 Ask me about **anime and arts**
 - 📫 How to reach me **sakinaabad07@gmail.com**
