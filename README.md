@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sakina</h1>
 <h3 align="center">A passionate computer science student from New Era University</h3>
 
--  🙋🏻‍♀️ **Bai Sakina B. Abad**
+-  🙋🏻‍♀️ **Bai Sakina B. Abad** 
 - 💬 Ask me about **anime and arts**
 - 📫 How to reach me **sakinaabad07@gmail.com**
 - ⚡ Fun fact **I have fast metabolism**
