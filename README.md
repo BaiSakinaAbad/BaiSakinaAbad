@@ -16,7 +16,7 @@
 
 - **BS Computer Science**
   - New Era University
-  - 2021-Present
+  - 2023-Present
 
 ## Certifications
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/e3f294a5cce44b8f92833ef286fd7b0a)
