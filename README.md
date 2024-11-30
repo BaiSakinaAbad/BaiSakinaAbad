@@ -21,7 +21,7 @@
 ## Certifications
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/e3f294a5cce44b8f92833ef286fd7b0a)
 - [Responsove Web Design - FCC](https://www.freecodecamp.org/certification/fcca1781b29-0d1f-4609-8a59-71a77868c3c8/responsive-web-design)
-- [Oracle Cloud Infrastructure 2024 Foundations Associate](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5393514&trackId=OCI2024FNDCFA&key=e4c58e65b6b84d8c511014ab4dbd237ddfdbb5b4)
+- [Oracle Cloud Infrastructure 2024 Foundations Associate]([https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5393514&trackId=OCI2024FNDCFA&key=e4c58e65b6b84d8c511014ab4dbd237ddfdbb5b4](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6C1FD7CCB24B46E8CF1652E96F54B24E8A7362957FBD59187051D0DDDCDD6A19))
 
 ## Skill Sets
     
