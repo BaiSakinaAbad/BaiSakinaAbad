@@ -1,4 +1,4 @@
-<img align="right" width="100%" alt="purple-background" src="https://media1.tenor.com/m/rkPNIZSk1toAAAAC/purple-aesthetic.gif">
+<img align="right" width="100%" alt="kenma" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhkMDFtOHRzaHNwMWN3dmk2M2p2MWJpMnFlaHF2NDJwYTAwaXpidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K6sANiCk29QnrgMai9/giphy.webp">
 
 <h1 align="center">Hi 👋, I'm Sakina</h1>
 <h3 align="center">A passionate computer science student from New Era University</h3>
