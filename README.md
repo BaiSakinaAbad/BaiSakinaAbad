@@ -1,6 +1,7 @@
 <img align="right" width="100%" alt="kenma" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhkMDFtOHRzaHNwMWN3dmk2M2p2MWJpMnFlaHF2NDJwYTAwaXpidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K6sANiCk29QnrgMai9/giphy.webp">
 
-<h1 align="center">Hi 👋, I'm Sakina</h1> <img align="right" alt="flying cat" width="50%" 
+<h1 align="center">Hi 👋, I'm Sakina</h1> 
+<img align="right" alt="flying cat" width="90px" 
   src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBucGdsbmtqamFjZnFnaml2dmpwMWVmem5tZngwc2p1eWYwZGx2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BSx6mzbW1ew7K/giphy.gif">
 
 
