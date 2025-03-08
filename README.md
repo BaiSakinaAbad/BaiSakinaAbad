@@ -1,12 +1,14 @@
 <img align="right" width="100%" alt="kenma" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhkMDFtOHRzaHNwMWN3dmk2M2p2MWJpMnFlaHF2NDJwYTAwaXpidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K6sANiCk29QnrgMai9/giphy.webp">
 
 <h1 align="center">Hi 👋, I'm Sakina</h1>
+<img align="left" alt="flying cat" src="https://www.google.com.ph/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Frainbow-cat&psig=AOvVaw2kim-KURrwifYsmv-D2qUy&ust=1741502253360000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDy6svv-YsDFQAAAAAdAAAAABAR">
 <h3 align="center">A passionate computer science student from New Era University</h3>
 
 -  🙋🏻‍♀️ **Bai Sakina B. Abad** 
 - 💬 Enjoys **anime and arts**
 - 📫 Contact me on **sakinaabad07@gmail.com**
 - ⚡ **Loves Dark Mode**
+
 
 ## Education
 
