@@ -2,13 +2,10 @@
   src="https://64.media.tumblr.com/3b817cbd2d5313d6e9491d0067e9ec75/tumblr_on0x78IM5q1uui1xzo1_500.gifv">
 
 <h1 align="center">Hi 👋, I'm Sakina</h1> 
-<h3 align="center">A passionate computer science student from New Era University</h3>
-
-<img align="right" alt="flying cat" width="250px" 
-  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBucGdsbmtqamFjZnFnaml2dmpwMWVmem5tZngwc2p1eWYwZGx2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BSx6mzbW1ew7K/giphy.gif">
-  <img align="right" alt="console pink" width="230px" 
-  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFodXV0a3BjOThwOTJxZGduazFjaGVzeDJ0bHFtcjB6cmZwdXZyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9roXsZPSSVT1kRzLM0/giphy.gif">
-
+<img align="left" alt="flying cat" width="210px" 
+  src="https://media.tenor.com/QJU7AAAG91QAAAAj/aesthetic-pink.gif">
+  
+  <h3 align="left">A passionate computer science student from New Era University</h3>
 
 -  🙋🏻‍♀️ **Bai Sakina B. Abad** 
 - 💬 Enjoys **anime and arts**
@@ -19,8 +16,11 @@
 ## Education
 
 - **STEM Graduate**
+  <img align="right" alt="console" width="400px" 
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFodXV0a3BjOThwOTJxZGduazFjaGVzeDJ0bHFtcjB6cmZwdXZyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9roXsZPSSVT1kRzLM0/giphy.gif">
   - Our Lady of Fatima University
   - (2021-2023)
+
 
 - **BS Computer Science**
   - New Era University
