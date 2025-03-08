@@ -1,7 +1,7 @@
 <img align="right" width="90%" alt="radio" 
   src="https://64.media.tumblr.com/3b817cbd2d5313d6e9491d0067e9ec75/tumblr_on0x78IM5q1uui1xzo1_500.gifv">
 
-// https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFodXV0a3BjOThwOTJxZGduazFjaGVzeDJ0bHFtcjB6cmZwdXZyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9roXsZPSSVT1kRzLM0/giphy.gif
+<-- https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFodXV0a3BjOThwOTJxZGduazFjaGVzeDJ0bHFtcjB6cmZwdXZyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9roXsZPSSVT1kRzLM0/giphy.gif -->
 
 <h1 align="center">Hi 👋, I'm Sakina</h1> 
 <img align="right" alt="flying cat" width="230px" 
@@ -27,7 +27,7 @@
 
 ## Certifications
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/e3f294a5cce44b8f92833ef286fd7b0a)
-- [Responsove Web Design - FCC](https://www.freecodecamp.org/certification/fcca1781b29-0d1f-4609-8a59-71a77868c3c8/responsive-web-design)
+- [Responsive Web Design - FCC](https://www.freecodecamp.org/certification/fcca1781b29-0d1f-4609-8a59-71a77868c3c8/responsive-web-design)
 - [Oracle Cloud Infrastructure 2024 Foundations Associate - 2024](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6C1FD7CCB24B46E8CF1652E96F54B24E8A7362957FBD59187051D0DDDCDD6A19)
 - [Oracle Cloud Data Management Foundations Associate - 2024 (Oracle Cloud Infrastructure 2024 Data Foundations Associate (1Z0-1195-24))](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6C1FD7CCB24B46E8CF1652E96F54B24E123CFCDDDB21FED096FA077E9C8B82F9)
 - [Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate - 2024](https://catalog-education.oracle.com/ords/certview/sharebadge?id=00CBD00510D1C21DF22FC9C87DA485F463E1706E179911262E1D904DD2F0A968)
