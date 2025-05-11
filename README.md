@@ -11,7 +11,7 @@
 - 💬 Enjoys **anime and arts**
 - 📫 Contact me on **sakinaabad07@gmail.com**
 - ⚡ **Loves Dark Mode**
-- 💻 Currently working on **SciCal_java_whistory**
+- 💻 Currently working on **TypeWithBeat**
 <br>
 
 ## Education
@@ -66,6 +66,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BaiSakinaAbad&icon=7&color=9)](https://visitcount.itsvg.in)
+
 
  
