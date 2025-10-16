@@ -11,7 +11,7 @@
 - 💬 Enjoys **anime and arts**
 - 📫 Contact me on **sakinaabad07@gmail.com**
 - ⚡ **Loves Dark Mode**
-- 💻 Currently working on **miniGames**
+- 💻 Currently working on **...**
 <br>
 
 ## Education
@@ -44,8 +44,6 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/bai-sakina-abad-973396322/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bai sakina abad linked-in" height="30" width="40" /></a>
-<a href="https://fb.com/sakina abad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakina abad facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/bayeeee_saki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bayeeee_saki" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ynaaaa_lol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ynaaaa_lol" height="30" width="40" /></a>
 </p>
 
