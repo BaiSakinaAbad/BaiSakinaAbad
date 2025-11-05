@@ -1,5 +1,4 @@
-<img align="right" width="100%" alt="radio" 
-  src="https://64.media.tumblr.com/3b817cbd2d5313d6e9491d0067e9ec75/tumblr_on0x78IM5q1uui1xzo1_500.gifv">
+![my header](saki_header.png)
 
 <h1 align="center">Hi 👋, I'm Saki</h1> 
 <img align="left" alt="flying cat" width="210px" 
