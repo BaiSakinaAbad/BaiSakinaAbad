@@ -10,7 +10,7 @@
 - 💬 Enjoys **anime and arts**
 - 📫 Contact me on **sakinaabad07@gmail.com**
 - ⚡ **Loves Dark Mode**
-- 💻 Currently working on **...**
+- 💻 Currently working on **Sales Management**
 <br>
 
 ## Education
