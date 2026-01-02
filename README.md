@@ -1,9 +1,10 @@
 
 ![my header](saki_header.png)
+ <div align="center">
+  <img alt="message" width="400px" src="saki_c_ani.gif">
+</div>
 
-![animated message](saki_ani(1).gif)
-
-<img align="left" alt="flying cat" width="210px" 
+<img align="left" alt="shimmer" width="210px" 
   src="https://media.tenor.com/QJU7AAAG91QAAAAj/aesthetic-pink.gif">
   
   <h3 align="left">A passionate computer science student from New Era University</h3>
@@ -18,7 +19,7 @@
 ## Education
 
 - **STEM Graduate**
-  <img align="right" alt="console" width="400px" 
+  <img align="right" alt="console" width="350px" 
   src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFodXV0a3BjOThwOTJxZGduazFjaGVzeDJ0bHFtcjB6cmZwdXZyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9roXsZPSSVT1kRzLM0/giphy.gif">
   - Our Lady of Fatima University
   - (2021-2023)
