@@ -1,7 +1,8 @@
 
 ![my header](saki_header.png)
 
-<h1 align="center">Hi 👋, I'm Saki</h1> 
+![animated message](saki_ani(1).gif)
+
 <img align="left" alt="flying cat" width="210px" 
   src="https://media.tenor.com/QJU7AAAG91QAAAAj/aesthetic-pink.gif">
   
