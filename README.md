@@ -32,6 +32,7 @@
 - [Oracle Cloud Infrastructure 2024 Foundations Associate - 2024](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6C1FD7CCB24B46E8CF1652E96F54B24E8A7362957FBD59187051D0DDDCDD6A19)
 - [Oracle Cloud Data Management Foundations Associate - 2024 (Oracle Cloud Infrastructure 2024 Data Foundations Associate (1Z0-1195-24))](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6C1FD7CCB24B46E8CF1652E96F54B24E123CFCDDDB21FED096FA077E9C8B82F9)
 - [Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate - 2024](https://catalog-education.oracle.com/ords/certview/sharebadge?id=00CBD00510D1C21DF22FC9C87DA485F463E1706E179911262E1D904DD2F0A968)
+- [CISCO- Introduction to Cybersecurity](https://www.credly.com/badges/5f4ca4dd-459c-458f-914e-b78eff98efdc/public_url)
 
 ## Skill Sets
     
