@@ -58,7 +58,7 @@
 <br>
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=BaiSakinaAbad&theme=date_night&hide_border=false)<br/>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=BaiSakinaAbad&theme=onedark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BaiSakinaAbad&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
