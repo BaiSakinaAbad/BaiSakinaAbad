@@ -13,7 +13,7 @@
 - 💬 Enjoys **anime and arts**
 - 📫 Contact me on **sakinaabad07@gmail.com**
 - ⚡ **Loves Dark Mode**
-- 💻 Currently working on **Mini Games**
+- 💻 Currently working on **Personal Projects**
 <br>
 
 ## Education
