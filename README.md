@@ -13,7 +13,7 @@
 - 💬 Enjoys **anime and arts**
 - 📫 Contact me on **sakinaabad07@gmail.com**
 - ⚡ **Loves Dark Mode**
-- 💻 Currently working on **HopeCMS** and other project
+- 💻 Currently working on **Personal Project** and other project
 <br>
 
 ## Education
