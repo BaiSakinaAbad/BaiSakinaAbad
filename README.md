@@ -40,10 +40,11 @@
 | Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate | Oracle (2024) | [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=00CBD00510D1C21DF22FC9C87DA485F463E1706E179911262E1D904DD2F0A968) |
 | Introduction to Cybersecurity | CISCO(2026) | [View Badge](https://www.credly.com/badges/5f4ca4dd-459c-458f-914e-b78eff98efdc/public_url) |
 | Claude 101 | Anthropic Education | [View Badge](http://verify.skilljar.com/c/odek9vj8qhcd) |
+| Python | Kaggle | [View Certificate](https://www.kaggle.com/learn/certification/abadbaisakinab/python) |
 
 ---
 
-## Skill Sets
+## Skill Sets 
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
