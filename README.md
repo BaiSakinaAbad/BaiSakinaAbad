@@ -41,6 +41,7 @@
 | Introduction to Cybersecurity | CISCO(2026) | [View Badge](https://www.credly.com/badges/5f4ca4dd-459c-458f-914e-b78eff98efdc/public_url) |
 | Claude 101 | Anthropic Education | [View Badge](http://verify.skilljar.com/c/odek9vj8qhcd) |
 | Python | Kaggle | [View Certificate](https://www.kaggle.com/learn/certification/abadbaisakinab/python) |
+| Networking Basics | Cisco | [View Badge](https://www.credly.com/badges/a2013234-5194-45dc-970e-01e848227e3f/public_url)
 
 ---
 
