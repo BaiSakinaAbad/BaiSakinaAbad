@@ -29,21 +29,28 @@
   - New Era University
   - 2023-Present
 
-## 🏆 Certifications
+## Cybersecurity Certifications
+
+| Certification Title | Issued By / Year | Link |
+| :--- | :---: | :---: |
+| Introduction to Cybersecurity | CISCO (2026) | [View Badge](https://www.credly.com/badges/5f4ca4dd-459c-458f-914e-b78eff98efdc/public_url) |
+| Networking Basics | Cisco | [View Badge](https://www.credly.com/badges/a2013234-5194-45dc-970e-01e848227e3f/public_url) |
+| ISO/IEC 27001 Information Security Associate™ | SkillFront | [View Badge](https://www.skillfront.com/Badges/67369048197243) |
+| Oracle Cloud Infrastructure 2024 Foundations Associate | Oracle (2024) | [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6C1FD7CCB24B46E8CF1652E96F54B24E8A7362957FBD59187051D0DDDCDD6A19) |
+| Responsive Web Design | freeCodeCamp (FCC) | [View Certificate](https://www.freecodecamp.org/certification/fcca1781b29-0d1f-4609-8a59-71a77868c3c8/responsive-web-design) |
+
+---
+
+## Data Analyst Certifications
 
 | Certification Title | Issued By / Year | Link |
 | :--- | :---: | :---: |
 | SQL and Relational Databases 101 | Cognitive Class | [View Certificate](https://courses.cognitiveclass.ai/certificates/e3f294a5cce44b8f92833ef286fd7b0a) |
-| Responsive Web Design | freeCodeCamp (FCC) | [View Certificate](https://www.freecodecamp.org/certification/fcca1781b29-0d1f-4609-8a59-71a77868c3c8/responsive-web-design) |
-| Oracle Cloud Infrastructure 2024 Foundations Associate | Oracle (2024) | [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6C1FD7CCB24B46E8CF1652E96F54B24E8A7362957FBD59187051D0DDDCDD6A19) |
 | Oracle Cloud Data Management Foundations Associate | Oracle (2024) | [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6C1FD7CCB24B46E8CF1652E96F54B24E123CFCDDDB21FED096FA077E9C8B82F9) |
 | Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate | Oracle (2024) | [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=00CBD00510D1C21DF22FC9C87DA485F463E1706E179911262E1D904DD2F0A968) |
-| Introduction to Cybersecurity | CISCO(2026) | [View Badge](https://www.credly.com/badges/5f4ca4dd-459c-458f-914e-b78eff98efdc/public_url) |
-| Claude 101 | Anthropic Education | [View Badge](http://verify.skilljar.com/c/odek9vj8qhcd) |
 | Python | Kaggle | [View Certificate](https://www.kaggle.com/learn/certification/abadbaisakinab/python) |
-| Networking Basics | Cisco | [View Badge](https://www.credly.com/badges/a2013234-5194-45dc-970e-01e848227e3f/public_url) |
-| ISO/IEC 27001 Information Security Associate™| SkillFront |[View Badge](https://www.skillfront.com/Badges/67369048197243)|| ISO/IEC 27001 Information Security Associate™ | | []() |
 | Introduction to Python | Datacamp | [View Link](https://www.datacamp.com/completed/statement-of-accomplishment/course/fe8b95b8a20b00f18e97ed06f287e7be5b319f63) |
+| Claude 101 | Anthropic Education | [View Badge](http://verify.skilljar.com/c/odek9vj8qhcd) |
 | AI Ethics | DataCamp | [View Badge](https://www.datacamp.com/completed/statement-of-accomplishment/course/01c1693c9719ec4defa6fc530271682cb79be525) |
 | | | []() |
 | | | []() |
