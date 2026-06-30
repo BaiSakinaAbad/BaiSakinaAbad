@@ -43,8 +43,8 @@
 | Python | Kaggle | [View Certificate](https://www.kaggle.com/learn/certification/abadbaisakinab/python) |
 | Networking Basics | Cisco | [View Badge](https://www.credly.com/badges/a2013234-5194-45dc-970e-01e848227e3f/public_url) |
 | ISO/IEC 27001 Information Security Associate™| SkillFront |[View Badge](https://www.skillfront.com/Badges/67369048197243)|| ISO/IEC 27001 Information Security Associate™ | | []() |
-| | | []() |
-| | | []() |
+| Introduction to Python | Datacamp | [View Link](https://www.datacamp.com/completed/statement-of-accomplishment/course/fe8b95b8a20b00f18e97ed06f287e7be5b319f63) |
+| AI Ethics | DataCamp | [View Badge](https://www.datacamp.com/completed/statement-of-accomplishment/course/01c1693c9719ec4defa6fc530271682cb79be525) |
 | | | []() |
 | | | []() |
 | | | []() |
