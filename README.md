@@ -38,6 +38,7 @@
 | ISO/IEC 27001 Information Security Associate™ | SkillFront | [View Badge](https://www.skillfront.com/Badges/67369048197243) |
 | Oracle Cloud Infrastructure 2024 Foundations Associate | Oracle (2024) | [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6C1FD7CCB24B46E8CF1652E96F54B24E8A7362957FBD59187051D0DDDCDD6A19) |
 | Responsive Web Design | freeCodeCamp (FCC) | [View Certificate](https://www.freecodecamp.org/certification/fcca1781b29-0d1f-4609-8a59-71a77868c3c8/responsive-web-design) |
+| SOC Fundamentals |CyberExam|[View Badge](https://learn.cyberexam.io/get-badge/e432a356-4d02-488e-ae28-865e34db709a)
 
 ---
 
