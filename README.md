@@ -53,7 +53,7 @@
 | Introduction to Python | Datacamp | [View Link](https://www.datacamp.com/completed/statement-of-accomplishment/course/fe8b95b8a20b00f18e97ed06f287e7be5b319f63) |
 | Claude 101 | Anthropic Education | [View Badge](http://verify.skilljar.com/c/odek9vj8qhcd) |
 | AI Ethics | DataCamp | [View Badge](https://www.datacamp.com/completed/statement-of-accomplishment/course/01c1693c9719ec4defa6fc530271682cb79be525) |
-| | | []() |
+| Intro to SQL | DataCamp | [View Badge](https://www.datacamp.com/completed/statement-of-accomplishment/course/bc0af7059e90290db30982b9baf662b212daaa1c) |
 | | | []() |
 | | | []() |
 | | | []() |
