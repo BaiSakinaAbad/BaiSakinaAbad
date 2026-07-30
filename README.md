@@ -11,9 +11,8 @@
 
 -  🙋🏻‍♀️ **Bai Sakina B. Abad** 
 - 💬 Enjoys **anime and arts**
-- 📫 Contact me on **sakinaabad07@gmail.com**
 - ⚡ **Loves Dark Mode**
-- 💻 Currently working on **Neon Air Canvas**
+- 💻 Currently working on **Personal Projects**
 <br>
 
 ## Education
