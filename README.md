@@ -18,12 +18,8 @@
 
 ## Education
 
-- **STEM Graduate**
-  <img align="right" alt="console" width="350px" 
+  <img align="right" alt="console" width="200px" 
   src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFodXV0a3BjOThwOTJxZGduazFjaGVzeDJ0bHFtcjB6cmZwdXZyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9roXsZPSSVT1kRzLM0/giphy.gif">
-  - Our Lady of Fatima University
-  - (2021-2023)
-
 
 - **BS Computer Science**
   - New Era University
