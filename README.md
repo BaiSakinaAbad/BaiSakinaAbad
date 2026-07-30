@@ -55,7 +55,7 @@
 | AI Ethics | DataCamp | [View Badge](https://www.datacamp.com/completed/statement-of-accomplishment/course/01c1693c9719ec4defa6fc530271682cb79be525) |
 | Intro to SQL | DataCamp | [View Badge](https://www.datacamp.com/completed/statement-of-accomplishment/course/bc0af7059e90290db30982b9baf662b212daaa1c) |
 | Intermediate SQL | DataCamp | [View Badge](https://www.datacamp.com/completed/statement-of-accomplishment/course/a5f0bc90048a520e74527e4d1080a7d5c8835b69) |
-| | | []() |
+| Joining Data in SQL | DataCamp | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/1d99ca51ed157dce33311ae3f86e075e06bfb331) |
 | | | []() |
 
 
